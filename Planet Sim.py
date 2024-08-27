@@ -159,6 +159,8 @@ while run:
                     trails.append([])
                 prePlanetFocusedOn = 0
                 planetFocusedOn = 0
+                easeInFromX = 0
+                easeInFromY = 0
             elif event.key == pygame.K_EQUALS:
                 planetI += 1
                 planets = PlanetInfo(planetI)
@@ -167,6 +169,8 @@ while run:
                     trails.append([])
                 prePlanetFocusedOn = 0
                 planetFocusedOn = 0
+                easeInFromX = 0
+                easeInFromY = 0
 
         keys = pygame.key.get_pressed()
 
