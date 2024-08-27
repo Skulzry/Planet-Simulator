@@ -6,4 +6,6 @@ Planet Sim!
 
 (P.S. The sim files are really lists with info, open them with text editor)
 
-That's about it!
+That's about it! Thanks for visiting my 365-line code!
+
+(©Skulzry 2024. All rights reserved.)
