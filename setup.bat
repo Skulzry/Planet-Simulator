@@ -21,6 +21,7 @@ echo Install python with pip.
 pause
 @echo on
 pip install pygame
+py -m pip install pygame
 @echo off
 echo Done!
 pause
